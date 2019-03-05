@@ -28,22 +28,22 @@ Jasonette ships with this repository's URL embedded by default, so if you just h
 ### 2. Manual way
 You can also manually add JSON to Jasonette. If you want to try adding each individual JSON file in this repository, you just need to add their published URLs to Jasonette and run. You can learn how to do that at [Getting started guide](https://jasonette.github.io/documentation).
 
-Just remember, this repo uses [Github pages](https://pages.github.com) to publish the JSON, so all the files will be avaialbe under the `https://jasonette.github.io/Jasonpedia` base url.
+Just remember, this repo uses [Github pages](https://pages.github.com) to publish the JSON, so all the files will be available under the `https://jasonette.github.io/Jasonpedia` base url.
 
 For example the [hello.json](https://github.com/Jasonette/Jasonpedia/blob/gh-pages/hello.json) file in the root directory is directly available at [https://jasonette.github.io/Jasonpedia/hello.json](https://jasonette.github.io/Jasonpedia/hello.json), the [demo.json](https://github.com/Jasonette/Jasonpedia/blob/gh-pages/demo.json) is available at [https://jasonette.github.io/Jasonpedia/demo.json](https://jasonette.github.io/Jasonpedia/demo.json), and so forth.
 
 # The purpose of this repo
 This repo serves multiple purposes:
 
-###1. Demo
+### 1. Demo
 This is the default JSON that ships with all Jasonette code, which means everyone who downloads Jasonette will get to play with what's on this repo as a starter project.
 
-###2. Test
+### 2. Test
 Whenever you write an [extension](https://jasonette.github.io/documentation/advanced/#extension) that may be useful to be merged into the main project,  write a test JSON to make sure:
   - it works as intended
   - it plays nice with the rest of Jasonette
   - other people understand how to use it
   - the syntax is consistent with the convention
 
-###3. Contribution
+### 3. Contribution
 Contribution is encouraged for this repo. Feel free to share your JSON apps by sending pull requests.
