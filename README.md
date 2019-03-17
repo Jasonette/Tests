@@ -35,15 +35,15 @@ For example the [hello.json](https://github.com/Jasonette/Jasonpedia/blob/gh-pag
 # The purpose of this repo
 This repo serves multiple purposes:
 
-###1. Demo
+### 1. Demo
 This is the default JSON that ships with all Jasonette code, which means everyone who downloads Jasonette will get to play with what's on this repo as a starter project.
 
-###2. Test
+### 2. Test
 Whenever you write an [extension](https://jasonette.github.io/documentation/advanced/#extension) that may be useful to be merged into the main project,  write a test JSON to make sure:
   - it works as intended
   - it plays nice with the rest of Jasonette
   - other people understand how to use it
   - the syntax is consistent with the convention
 
-###3. Contribution
+### 3. Contribution
 Contribution is encouraged for this repo. Feel free to share your JSON apps by sending pull requests.
